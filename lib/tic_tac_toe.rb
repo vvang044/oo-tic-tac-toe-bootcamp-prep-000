@@ -71,7 +71,7 @@ def over?
 end 
 
 def winner
-
+if combo = won?
 end
   
   
